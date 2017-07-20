@@ -1,0 +1,18 @@
+.img_current {
+  width: 150px;
+}
+
+.img_detail {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.icon_del {
+  position: relative !important;
+  top: -55px;
+  left: -20px;
+}
+
+#insert {
+  margin-top: 20px;
+}
